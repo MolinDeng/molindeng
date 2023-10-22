@@ -4,10 +4,12 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=molindeng&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/aveek.saha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+  <!-- portfolio + linkedin -->
+  <a href="https://linkedin.com/in/molin-deng"><img align="center" src="https://img.shields.io/badge/-Molin%20Deng%20-282A36?style=plastic&labelColor=FF79C6&logo=LinkedIn&link=https://linkedin.com/in/molin-deng" alt="LinkedIn Badge"></a> 
+  <a href="https://molin7.vercel.app/"><img align="center" src="https://img.shields.io/badge/-Personal%20Website%20-282A36?style=plastic&labelColor=BD93F9&logo=monoprix&link=https://molin7.vercel.app/" alt="Personal Websit Badge"></a> 
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=molindeng&repo=pdfpal">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=molindeng&repo=chatpdf">
-</p>
+</p> -->

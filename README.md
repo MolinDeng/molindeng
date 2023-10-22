@@ -5,8 +5,8 @@
   <br>
   <br>
   <!-- portfolio + linkedin -->
-  <a href="https://linkedin.com/in/molin-deng"><img align="center" src="https://img.shields.io/badge/-Molin%20Deng%20-282A36?style=plastic&labelColor=FF79C6&logo=LinkedIn&link=https://linkedin.com/in/molin-deng" alt="LinkedIn Badge"></a> 
-  <a href="https://molin7.vercel.app/"><img align="center" src="https://img.shields.io/badge/-Personal%20Website%20-282A36?style=plastic&labelColor=BD93F9&logo=monoprix&link=https://molin7.vercel.app/" alt="Personal Websit Badge"></a> 
+  <a href="https://linkedin.com/in/molin-deng" target="_blank"><img align="center" src="https://img.shields.io/badge/-Molin%20Deng%20-282A36?style=plastic&labelColor=FF79C6&logo=LinkedIn&link=https://linkedin.com/in/molin-deng" alt="LinkedIn Badge"></a> 
+  <a href="https://molin7.vercel.app/" target="_blank"><img align="center" src="https://img.shields.io/badge/-Personal%20Website%20-282A36?style=plastic&labelColor=BD93F9&logo=monoprix&link=https://molin7.vercel.app/" alt="Personal Websit Badge"></a> 
 </p>
 
 <!-- <p align="center">

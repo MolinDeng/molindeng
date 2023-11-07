@@ -13,3 +13,6 @@
   <img align="left" src ="https://github-readme-stats.vercel.app/api/pin/?username=molindeng&repo=pdfpal">
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=molindeng&repo=chatpdf">
 </p> -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

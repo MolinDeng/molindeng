@@ -14,14 +14,3 @@
   <img align="right" src ="https://github-readme-stats.vercel.app/api/pin/?username=molindeng&repo=chatpdf">
 </p> -->
 
-<!--START_SECTION:waka-->
-
-```rust
-From: 07 November 2023 - To: 27 November 2023
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
